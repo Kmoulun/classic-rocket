@@ -1,3 +1,7 @@
+```diff
+Please do your PR on the develop branch, thank you!
+```
+
 # PrestaShop Classic Rocket
 
 Classic Rocket is a rework of "classic theme". It has been built keeping in  mind : performance, accessibility and SEO.
